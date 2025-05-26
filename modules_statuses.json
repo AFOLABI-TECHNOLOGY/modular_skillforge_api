@@ -1,3 +1,7 @@
 {
-    "Course": true
+    "Course": true,
+    "Payment": true,
+    "Authentification": true,
+    "Users": true,
+    "Learning": true
 }
