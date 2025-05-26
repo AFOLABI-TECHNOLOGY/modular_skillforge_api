@@ -3,5 +3,6 @@
     "Payment": true,
     "Authentification": true,
     "Users": true,
-    "Learning": true
+    "Learning": true,
+    "Admin": true
 }
